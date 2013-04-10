@@ -1,0 +1,46 @@
+{
+  "name": "euler-characteristic",
+  "version": "0.0.0",
+  "description": "Euler characteristic for simplicial complexes",
+  "main": "euler.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "simplicial-complex": "~0.3.3"
+  },
+  "devDependencies": {
+    "tap": "~0.4.1"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/euler-characteristic.git"
+  },
+  "keywords": [
+    "topology",
+    "euler",
+    "characteristic",
+    "homology",
+    "cohomology",
+    "betti",
+    "number",
+    "invariant",
+    "mesh",
+    "simplicial",
+    "complex",
+    "triangle",
+    "mesh",
+    "graph",
+    "tetrahedra",
+    "vertex",
+    "edge",
+    "homotopy"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "f9b4a17fc1731a750e0a6e1341e38229ac9c9241"
+}
